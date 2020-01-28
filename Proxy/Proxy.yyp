@@ -47,6 +47,22 @@
             }
         },
         {
+            "Key": "25ae19bb-f5ea-423d-a787-4ab0c95e0ffc",
+            "Value": {
+                "id": "d95cd522-6513-4734-864f-d219bfc38c73",
+                "resourcePath": "sprites\\PH_SPR_Button\\PH_SPR_Button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2fbb14d5-0391-465d-9d31-b2063ecfeb3f",
+            "Value": {
+                "id": "5142cf69-b7b0-4687-877f-75c36e58d1e0",
+                "resourcePath": "objects\\GO_FridgeItem_Chicks\\GO_FridgeItem_Chicks.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2fee3ad1-b5b0-4f33-83bf-fadbdac66363",
             "Value": {
                 "id": "cadb2353-3dae-4acd-8a49-0d8f1bf73699",
@@ -60,6 +76,14 @@
                 "id": "d0c9e543-746b-46e0-9f3d-e21b1b72d3e9",
                 "resourcePath": "views\\3005cd71-76a0-4074-bebf-1508020bd69b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3062fa92-3776-44a2-9222-04bc7fb25289",
+            "Value": {
+                "id": "a5019a31-8e95-421e-8a5b-68ffc822d474",
+                "resourcePath": "objects\\GO_Menu\\GO_Menu.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -95,11 +119,35 @@
             }
         },
         {
+            "Key": "75cd49a5-ac0c-4118-8679-f016e94bee18",
+            "Value": {
+                "id": "78a82195-fa6e-4ec2-a002-cb716443beed",
+                "resourcePath": "rooms\\RM_Chick\\RM_Chick.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "75ecac85-cf13-414a-80a1-485fa6b7cfc2",
+            "Value": {
+                "id": "2ab2fbc0-d2e8-4900-9e97-7c466536ef6e",
+                "resourcePath": "objects\\GO_Chick_Button\\GO_Chick_Button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8c0984d6-ceee-4831-8a46-0c4ec637a627",
             "Value": {
                 "id": "a233daf2-5fe8-4bed-85f1-1ab98c447604",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\RM_Menu\\RM_Menu.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "8c747f70-98de-47a8-afae-2f719a79a575",
+            "Value": {
+                "id": "79c0ca7c-a18c-486c-a248-d656c02eca59",
+                "resourcePath": "objects\\GO_GameManager\\GO_GameManager.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -107,6 +155,14 @@
             "Value": {
                 "id": "ccfe66a1-831b-4450-97dc-796302d56659",
                 "resourcePath": "views\\91cfdb9f-67c7-4073-9b69-74be4d94a33b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9a4fbac0-9b45-4c7e-bc73-de6b13e23edd",
+            "Value": {
+                "id": "ea264baa-d2ad-4180-8a4d-f61de340710e",
+                "resourcePath": "views\\9a4fbac0-9b45-4c7e-bc73-de6b13e23edd.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -135,6 +191,14 @@
             }
         },
         {
+            "Key": "b83b5b41-9c6a-40ec-be3c-018bd2be56dc",
+            "Value": {
+                "id": "56213a7b-423e-4dd1-a7f6-7c9eef5bbd36",
+                "resourcePath": "views\\b83b5b41-9c6a-40ec-be3c-018bd2be56dc.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "bb984f9f-c8e0-467e-9416-0aaff0ab1083",
             "Value": {
                 "id": "13b3838d-1fa6-45f9-a032-57d365221e44",
@@ -146,7 +210,7 @@
             "Key": "cb48b093-152e-4e60-a178-4d4b5a812ae3",
             "Value": {
                 "id": "5eaff537-3dbd-4fec-a5e5-d29143c64227",
-                "resourcePath": "objects\\ROOT_GO_FridgeItem\\ROOT_GO_FridgeItem.yy",
+                "resourcePath": "objects\\ROOT_GO_GoRoom\\ROOT_GO_GoRoom.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -163,6 +227,22 @@
             "Value": {
                 "id": "313e6717-3719-463c-91a3-faf162a54e51",
                 "resourcePath": "views\\d37a7277-d927-4955-bdeb-ac23ceef17e0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "de0e8970-98bf-4f52-9e78-d3fc818210e5",
+            "Value": {
+                "id": "820db417-7266-42d7-9bac-8475f7a94fc4",
+                "resourcePath": "sprites\\PH_SPR_PopupMenu\\PH_SPR_PopupMenu.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "deac4172-192d-4f3a-95fd-7dab3864fe4f",
+            "Value": {
+                "id": "fd700952-70ca-4740-b4a8-98fea9e4d7e0",
+                "resourcePath": "views\\deac4172-192d-4f3a-95fd-7dab3864fe4f.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -196,6 +276,14 @@
                 "id": "8cc6453e-4eda-4e1f-826a-e5e567167473",
                 "resourcePath": "views\\f568a5b3-c528-4fc2-a7a2-615f5a54fa58.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f977ca47-0e43-4ae2-b36a-5996ded8cd3c",
+            "Value": {
+                "id": "b56f5c94-d441-47f8-b333-0bfcfd231801",
+                "resourcePath": "objects\\ROOT_GO_FridgeItem\\ROOT_GO_FridgeItem.yy",
+                "resourceType": "GMObject"
             }
         },
         {
