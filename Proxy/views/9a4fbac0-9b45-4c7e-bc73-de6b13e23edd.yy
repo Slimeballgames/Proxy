@@ -4,7 +4,8 @@
     "mvc": "1.1",
     "name": "9a4fbac0-9b45-4c7e-bc73-de6b13e23edd",
     "children": [
-        "68524284-7af0-4bc2-ae89-760021483837"
+        "68524284-7af0-4bc2-ae89-760021483837",
+        "a7afc6df-ec5d-4277-9f88-dc3841f577e4"
     ],
     "filterType": "GMSprite",
     "folderName": "Backgrounds",
