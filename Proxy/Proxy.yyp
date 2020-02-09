@@ -55,10 +55,42 @@
             }
         },
         {
+            "Key": "15b6b08f-fd53-4984-94ff-a95d149a9c18",
+            "Value": {
+                "id": "56c624d7-d30f-4ff9-9164-dcc9ab65ff2f",
+                "resourcePath": "sprites\\SPR_BurgerIcon\\SPR_BurgerIcon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "213e504f-8a14-40f3-a294-698062a6a82f",
+            "Value": {
+                "id": "dba1181f-c0ed-4712-9547-83ce6d19dcfa",
+                "resourcePath": "sprites\\SPR_IceCream\\SPR_IceCream.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "25ae19bb-f5ea-423d-a787-4ab0c95e0ffc",
             "Value": {
                 "id": "d95cd522-6513-4734-864f-d219bfc38c73",
                 "resourcePath": "sprites\\PH_SPR_Button\\PH_SPR_Button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "268105be-cf4d-4e5e-9729-6bd2ef65c516",
+            "Value": {
+                "id": "197a269c-a34e-4121-9eb6-b2faa063efbb",
+                "resourcePath": "sprites\\SPR_Soda\\SPR_Soda.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2d729135-2994-4bf6-a1ef-0249527ebe04",
+            "Value": {
+                "id": "54785f95-5f9b-4235-a2bf-48a7873b8208",
+                "resourcePath": "sprites\\SPR_Apple\\SPR_Apple.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -119,6 +151,14 @@
             }
         },
         {
+            "Key": "4ffad40c-814e-4bab-9bb3-929237e938e6",
+            "Value": {
+                "id": "c9970c59-e572-4a83-a3e3-cc456f2c5b95",
+                "resourcePath": "sprites\\SPR_Egg2\\SPR_Egg2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5091331e-6798-4f51-9fe3-5ae842aab2b6",
             "Value": {
                 "id": "36ae15fb-0bce-425d-807d-1f65b803798d",
@@ -127,11 +167,43 @@
             }
         },
         {
+            "Key": "5b61ae79-f304-4fd7-a54d-37b66a1e771e",
+            "Value": {
+                "id": "9ff3d4ed-c2a8-4b22-8261-87b78cf98a83",
+                "resourcePath": "sprites\\SPR_ChickIcon\\SPR_ChickIcon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5d091b88-72ca-43c4-8181-70ac470f9b72",
+            "Value": {
+                "id": "d97f13b2-ea49-4ce2-843b-51bc58807bf5",
+                "resourcePath": "sprites\\SPR_Rhubarb\\SPR_Rhubarb.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "61c8a8fc-784a-4bc9-b367-7ac7bfc4d598",
             "Value": {
                 "id": "a36c25b6-b1f8-4607-81e2-60c6c06f6376",
                 "resourcePath": "objects\\GO_Chicks\\GO_Chicks.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "634a39a6-3c8c-4593-98ce-368108b45b34",
+            "Value": {
+                "id": "acbd67c9-e98a-44d3-a79c-24ada7eea9ec",
+                "resourcePath": "sprites\\SPR_Orange\\SPR_Orange.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "66c988ab-8d9c-4e23-8334-b5356fb8c9a2",
+            "Value": {
+                "id": "f3245bbe-b172-4b8f-aa1c-6c85a38e96df",
+                "resourcePath": "sprites\\SPR_Egg\\SPR_Egg.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -167,6 +239,30 @@
             }
         },
         {
+            "Key": "7f23b887-8d0d-4f9a-9872-f63daebe1a11",
+            "Value": {
+                "id": "7607a75a-47ba-4863-aebd-d6d4ad82fdd7",
+                "resourcePath": "sprites\\SPR_EggsIcon\\SPR_EggsIcon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "84342665-1876-4445-b3b2-7e304893200c",
+            "Value": {
+                "id": "0f4e4b04-8ea5-4a7f-a12c-7877d73070cb",
+                "resourcePath": "sprites\\SPR_OrangeJuice\\SPR_OrangeJuice.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8857497f-bd31-4eeb-98c6-34422aa4639d",
+            "Value": {
+                "id": "de0e2f9f-4f1b-4ac6-8294-42acaba6c707",
+                "resourcePath": "sprites\\SPR_Lettuce\\SPR_Lettuce.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8c0984d6-ceee-4831-8a46-0c4ec637a627",
             "Value": {
                 "id": "a233daf2-5fe8-4bed-85f1-1ab98c447604",
@@ -188,6 +284,30 @@
                 "id": "ccfe66a1-831b-4450-97dc-796302d56659",
                 "resourcePath": "views\\91cfdb9f-67c7-4073-9b69-74be4d94a33b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "93fc6dd7-2ac1-49c1-a48b-d3a0be856fc2",
+            "Value": {
+                "id": "18d5d918-29ab-4d3f-82d7-42b450b5edb1",
+                "resourcePath": "sprites\\SPR_ChickIcon2\\SPR_ChickIcon2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "963b12d5-9713-4b71-9c66-abbdfedb2423",
+            "Value": {
+                "id": "162fe9c3-b0bd-45d1-ab12-fd6540f368f8",
+                "resourcePath": "sprites\\SPR_Carrots\\SPR_Carrots.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9915dbfb-d1da-4366-97db-9e7c2b639223",
+            "Value": {
+                "id": "e0646035-29b0-4059-90d2-a7e9659663dc",
+                "resourcePath": "sprites\\SPR_WaterBottle\\SPR_WaterBottle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -255,6 +375,14 @@
             }
         },
         {
+            "Key": "bfb2de05-ad57-4b68-b3da-78fe6d33eaa1",
+            "Value": {
+                "id": "cd84eaab-2d54-4858-b3f1-3ff08afd1b60",
+                "resourcePath": "sprites\\SPR_Cheese\\SPR_Cheese.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c99f01fc-0796-453b-acfb-00d78fbdfbd3",
             "Value": {
                 "id": "92820c44-0b74-4fb8-93ff-5259188f8167",
@@ -303,6 +431,14 @@
             }
         },
         {
+            "Key": "d59c8ac4-fa88-42f6-8ce8-6bcc8c58a708",
+            "Value": {
+                "id": "15e3d33d-7447-4dba-8d09-e0693cfc9026",
+                "resourcePath": "sprites\\SPR_NuggetsIcon\\SPR_NuggetsIcon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "de0e8970-98bf-4f52-9e78-d3fc818210e5",
             "Value": {
                 "id": "820db417-7266-42d7-9bac-8475f7a94fc4",
@@ -340,6 +476,14 @@
                 "id": "7642f2f5-1fe4-4567-a2b8-09d26bdabfdc",
                 "resourcePath": "views\\ec413e7c-c038-4561-abf4-f189be818c8c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ed522fe3-9b02-4e70-81be-27b30a6b3973",
+            "Value": {
+                "id": "3e55b54b-845f-4761-ad15-ab0d5d14974c",
+                "resourcePath": "sprites\\SPR_MilkIcon\\SPR_MilkIcon.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

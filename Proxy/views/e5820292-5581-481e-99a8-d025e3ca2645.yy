@@ -7,7 +7,9 @@
         "3f4671f7-3d3e-47a8-84eb-3e7e0a8527dc",
         "c99f01fc-0796-453b-acfb-00d78fbdfbd3",
         "d057e324-72f0-4960-bffe-5ba1ee6928c9",
-        "0c0929e3-300a-4229-bee1-e7513c92c752"
+        "0c0929e3-300a-4229-bee1-e7513c92c752",
+        "66c988ab-8d9c-4e23-8334-b5356fb8c9a2",
+        "4ffad40c-814e-4bab-9bb3-929237e938e6"
     ],
     "filterType": "GMSprite",
     "folderName": "Chick game",
