@@ -3,3 +3,6 @@
 
 //Replace this pointer with the room needed
 room_goto(RM_Chick);
+with(GO_GameManager){
+	ChickGame = true;	
+}

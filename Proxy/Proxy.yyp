@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "2f93b9ac-f414-4eb2-8eff-64f7016e4b87",
+            "Value": {
+                "id": "004b60b1-f495-4857-b43b-07860360fa45",
+                "resourcePath": "objects\\GO_Grinder\\GO_Grinder.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2fbb14d5-0391-465d-9d31-b2063ecfeb3f",
             "Value": {
                 "id": "5142cf69-b7b0-4687-877f-75c36e58d1e0",

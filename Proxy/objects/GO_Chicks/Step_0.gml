@@ -7,3 +7,9 @@ if(grabbed){
 	x = mouse_x;
 	y = mouse_y;
 }
+
+
+if(grabbed == false){
+	y += 1;
+	
+}
