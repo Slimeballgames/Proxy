@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "2efd61d4-904b-4c4a-b734-8cb7aab75b21",
+            "Value": {
+                "id": "a92cdc9e-821c-48d0-93f7-58005c84e68c",
+                "resourcePath": "sprites\\Grinder2\\Grinder2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2f93b9ac-f414-4eb2-8eff-64f7016e4b87",
             "Value": {
                 "id": "004b60b1-f495-4857-b43b-07860360fa45",
