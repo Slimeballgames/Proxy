@@ -4,16 +4,7 @@
     "mvc": "1.0",
     "name": "GO_Grinder",
     "eventList": [
-        {
-            "id": "c5df6a96-09cb-4dab-85e7-9ed92279177c",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "61c8a8fc-784a-4bc9-b367-7ac7bfc4d598",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "2f93b9ac-f414-4eb2-8eff-64f7016e4b87"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "1b26eec8-5d88-4af3-9978-806834c7c43a",
     "visible": true
 }
