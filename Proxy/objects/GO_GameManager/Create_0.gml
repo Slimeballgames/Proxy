@@ -5,3 +5,4 @@ randomize();
 //CHICK STUFF
 ScoreChick = 0;
 ChickGame = false;
+SpawnSpeed = 3;

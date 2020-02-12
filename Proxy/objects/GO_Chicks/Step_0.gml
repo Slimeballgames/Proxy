@@ -14,3 +14,7 @@ if(grabbed == false){
 	
 }
 
+
+if(y > 1100){
+	instance_destroy();
+}
