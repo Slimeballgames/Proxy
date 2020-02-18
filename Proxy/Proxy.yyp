@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "3deeaf0c-a382-4bd6-bfa5-fb6f7fa5456b",
+            "Value": {
+                "id": "00fca6a0-1279-4153-ad82-f8b193a11292",
+                "resourcePath": "sprites\\sprite31\\sprite31.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3f4671f7-3d3e-47a8-84eb-3e7e0a8527dc",
             "Value": {
                 "id": "73de2a89-1424-4e2d-884d-a1b43be216bd",
@@ -207,6 +215,14 @@
             }
         },
         {
+            "Key": "61472d06-09fb-4aa5-932d-fd2c901a2530",
+            "Value": {
+                "id": "2377ad30-31ab-4455-abb8-51424ed00271",
+                "resourcePath": "objects\\GO_ChickChance\\GO_ChickChance.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "61c8a8fc-784a-4bc9-b367-7ac7bfc4d598",
             "Value": {
                 "id": "a36c25b6-b1f8-4607-81e2-60c6c06f6376",
@@ -244,6 +260,14 @@
                 "id": "10c32a9b-045d-4438-8f39-24ed19b7092d",
                 "resourcePath": "views\\70140e65-2fd4-480c-842e-049651ca7584.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "73947820-5f67-4503-b87f-bee1c72bb77f",
+            "Value": {
+                "id": "131b7848-966f-4b23-a3a7-aebf895c01cd",
+                "resourcePath": "fonts\\PH_TextFont\\PH_TextFont.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -359,6 +383,22 @@
             }
         },
         {
+            "Key": "a2c4bced-dad8-4c21-9a42-2723cb4a7ae9",
+            "Value": {
+                "id": "f702cb77-b87e-420a-9645-3c182453d601",
+                "resourcePath": "objects\\GO_MeatWad_F\\GO_MeatWad_F.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a3346b3e-68c7-4dd9-a5e3-04ea59fee636",
+            "Value": {
+                "id": "d0776326-7bb6-4764-af7c-3434c66162eb",
+                "resourcePath": "sprites\\SPR_Belt\\SPR_Belt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a7afc6df-ec5d-4277-9f88-dc3841f577e4",
             "Value": {
                 "id": "30489208-0f14-4d29-a007-98201b30a404",
@@ -372,6 +412,14 @@
                 "id": "fe2d8dc4-57d2-4e93-8b4a-3393803aad6c",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "b4ce4191-5288-49e2-bc2c-f67577846657",
+            "Value": {
+                "id": "04df1b2e-ac5b-4527-8a8e-dd7d306f95ef",
+                "resourcePath": "sprites\\SPR_Meatwad_F\\SPR_Meatwad_F.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -500,6 +548,14 @@
                 "id": "7642f2f5-1fe4-4567-a2b8-09d26bdabfdc",
                 "resourcePath": "views\\ec413e7c-c038-4561-abf4-f189be818c8c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ece5f25b-f5fe-4d00-9811-4634d6f57096",
+            "Value": {
+                "id": "5690e2ee-2793-47cc-9ec9-026f61c2ccb2",
+                "resourcePath": "rooms\\RM_ChickGO\\RM_ChickGO.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

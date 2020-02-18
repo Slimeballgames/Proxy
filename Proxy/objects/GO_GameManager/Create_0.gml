@@ -6,3 +6,4 @@ randomize();
 ScoreChick = 0;
 ChickGame = false;
 SpawnSpeed = 3;
+ChickChance = 10;

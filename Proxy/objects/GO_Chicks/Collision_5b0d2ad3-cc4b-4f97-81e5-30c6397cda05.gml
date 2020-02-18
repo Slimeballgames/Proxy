@@ -5,14 +5,16 @@ switch(sprite_index){
 	
 	case(SPR_Chick_F):
 		with(GO_GameManager){
-				ScoreChick -= 50;
+				ScoreChick -= 100;
+				ChickChance -= 1;
 			}
 			break;
 	
 	
 	case(SPR_Chick_F_Fall):
 			with(GO_GameManager){
-				ScoreChick -= 50;
+				ScoreChick -= 100;
+				ChickChance -= 1;
 			}
 			break;
 			
@@ -28,5 +30,7 @@ switch(sprite_index){
 			}
 			break;
 }
+
+instance_create_layer(765, 737, "Slurry", GO_MeatWad_F);
 
 instance_destroy();

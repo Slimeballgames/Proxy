@@ -1,5 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 if(ChickGame){
-	draw_text(50, 40, string(ScoreChick));
+	draw_set_font(PH_TextFont);
+	draw_text(705, 65, "Score: " + string(ScoreChick));
+	draw_text(734, 224, "x " + string(GO_GameManager.ChickChance));
 }
