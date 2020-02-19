@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0e0e7f47-0154-41fe-9ebf-735bb8d44db3",
+            "Value": {
+                "id": "f3bf4c35-e3f4-4fc5-a240-069dd8898764",
+                "resourcePath": "sprites\\SPR_ProxyLogo\\SPR_ProxyLogo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "117f3bc8-67a8-4e39-8b86-b6a59a806457",
             "Value": {
                 "id": "0c1d601b-bf6c-48a4-91a2-ae2bc5cca685",
@@ -444,6 +452,14 @@
                 "id": "13b3838d-1fa6-45f9-a032-57d365221e44",
                 "resourcePath": "views\\bb984f9f-c8e0-467e-9416-0aaff0ab1083.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bc5fbd98-4ecb-455b-901b-209e60707539",
+            "Value": {
+                "id": "e2f5a4b2-9590-4258-ac31-6004103ef202",
+                "resourcePath": "sprites\\SPR_TofuKingLogo\\SPR_TofuKingLogo.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
