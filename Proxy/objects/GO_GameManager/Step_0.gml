@@ -11,6 +11,9 @@ if(ChickGame){
 		room_goto(RM_ChickGO);
 	}
 	
+	
+		
+	
 }
 
 		
