@@ -3,7 +3,8 @@
 randomize();
 
 //CHICK STUFF
-ScoreChick = 0;
+ScoreChick = 100;
 ChickGame = false;
 SpawnSpeed = 3;
 ChickChance = 10;
+ChickGO = false;
