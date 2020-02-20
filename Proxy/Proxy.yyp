@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "498630cc-a52b-43f6-9a48-39be6d7d6ab3",
+            "Value": {
+                "id": "434b0136-f940-42f9-8d07-4da3f7b00274",
+                "resourcePath": "sprites\\sprite42\\sprite42.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4ffad40c-814e-4bab-9bb3-929237e938e6",
             "Value": {
                 "id": "c9970c59-e572-4a83-a3e3-cc456f2c5b95",
