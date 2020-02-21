@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "32ba1af9-ce14-4fe0-9db7-8c38d35a1773",
+            "Value": {
+                "id": "872f9e7b-a2d8-44da-8584-8d0840695e72",
+                "resourcePath": "sprites\\SPR_Cola\\SPR_Cola.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3692fe33-626e-4fd4-a686-715175a62d92",
             "Value": {
                 "id": "859ce22f-5099-41a1-832e-be0bbc8107b4",
@@ -487,6 +495,14 @@
             }
         },
         {
+            "Key": "a8de904e-94f6-40a5-93fb-a92d918d3001",
+            "Value": {
+                "id": "57ece75f-0d36-42e8-834e-503e11d3022d",
+                "resourcePath": "sprites\\SPR_Ketchup\\SPR_Ketchup.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "fe2d8dc4-57d2-4e93-8b4a-3393803aad6c",
@@ -639,6 +655,14 @@
             }
         },
         {
+            "Key": "e4f639a5-809f-4ec0-a872-6e16def835ed",
+            "Value": {
+                "id": "581d5bd9-c7bc-4e95-93d4-7f52cf8ae17d",
+                "resourcePath": "sprites\\SPR_Cow\\SPR_Cow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e5820292-5581-481e-99a8-d025e3ca2645",
             "Value": {
                 "id": "e785eeb5-6687-4fe1-954a-4f1ffc96d902",
@@ -711,6 +735,14 @@
             }
         },
         {
+            "Key": "f9304c19-ef50-49e7-8133-86c1ff2338cd",
+            "Value": {
+                "id": "8c9e7e6b-738e-4422-9839-c31238efbaa3",
+                "resourcePath": "sprites\\SPR_Mustard\\SPR_Mustard.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f977ca47-0e43-4ae2-b36a-5996ded8cd3c",
             "Value": {
                 "id": "b56f5c94-d441-47f8-b333-0bfcfd231801",
@@ -732,6 +764,14 @@
                 "id": "d618a9c9-07f5-4dc7-a21e-4f16fe8e9a5a",
                 "resourcePath": "sounds\\conveyorBelt\\conveyorBelt.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "fb6c5bbc-e7f3-44a2-820d-bb4ea9e7db17",
+            "Value": {
+                "id": "48b4ccaf-82ac-43a2-af48-bfd3176302de",
+                "resourcePath": "sprites\\SPR_Pizza\\SPR_Pizza.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
