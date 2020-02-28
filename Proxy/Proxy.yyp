@@ -367,6 +367,14 @@
             }
         },
         {
+            "Key": "8388b947-571d-4e7f-82ea-c99fea956ea2",
+            "Value": {
+                "id": "2597cd17-33ed-409d-a840-9fd35ee2a885",
+                "resourcePath": "sprites\\Methane\\Methane.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "84342665-1876-4445-b3b2-7e304893200c",
             "Value": {
                 "id": "0f4e4b04-8ea5-4a7f-a12c-7877d73070cb",
@@ -460,6 +468,14 @@
                 "id": "9aee7232-6116-489e-ab66-6ec15477a35a",
                 "resourcePath": "views\\9ac8203c-8278-444b-be43-49d28acccf7c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a237d42a-e8fc-425c-a6f3-e6aa3dfa2ff2",
+            "Value": {
+                "id": "ce5d7cf8-ce38-4e7a-9899-c51a535a1784",
+                "resourcePath": "sprites\\SPR_BurgerIconMoving\\SPR_BurgerIconMoving.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
