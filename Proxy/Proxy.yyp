@@ -103,6 +103,22 @@
             }
         },
         {
+            "Key": "1bd0a72c-d2d8-4685-b60d-4aff85ac53f7",
+            "Value": {
+                "id": "fd9bf035-b53f-4f5e-9733-26059106f09b",
+                "resourcePath": "sounds\\SND_Buzz\\SND_Buzz.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "1c8fc4ec-a281-49d4-a3f4-d1341669b877",
+            "Value": {
+                "id": "784be888-3f64-4398-bed9-53f59c9ba5f6",
+                "resourcePath": "sprites\\PH_SPR_CowBG\\PH_SPR_CowBG.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "200f8f3a-e65b-459d-ae85-8194d1356338",
             "Value": {
                 "id": "c34569d9-4f7b-493a-8fa9-bcc8581f184d",
@@ -223,6 +239,14 @@
             }
         },
         {
+            "Key": "3f51b1c5-d3d9-424a-a97d-5b68dba03219",
+            "Value": {
+                "id": "43c427da-9b2d-4ac9-941a-6d7a9348d8cd",
+                "resourcePath": "rooms\\RM_CowRace\\RM_CowRace.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "498630cc-a52b-43f6-9a48-39be6d7d6ab3",
             "Value": {
                 "id": "434b0136-f940-42f9-8d07-4da3f7b00274",
@@ -335,6 +359,14 @@
             }
         },
         {
+            "Key": "73c29594-1cc5-4154-b681-32db23b5599d",
+            "Value": {
+                "id": "623a95b8-1720-477f-b0b2-ace1f078ce93",
+                "resourcePath": "views\\73c29594-1cc5-4154-b681-32db23b5599d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "75cd49a5-ac0c-4118-8679-f016e94bee18",
             "Value": {
                 "id": "78a82195-fa6e-4ec2-a002-cb716443beed",
@@ -356,6 +388,14 @@
                 "id": "7607a75a-47ba-4863-aebd-d6d4ad82fdd7",
                 "resourcePath": "sprites\\SPR_EggsIcon\\SPR_EggsIcon.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7f37c60f-9e22-406c-8a56-f08a2d591100",
+            "Value": {
+                "id": "1ac9a927-cc44-417e-891a-23d79b113c4f",
+                "resourcePath": "views\\7f37c60f-9e22-406c-8a56-f08a2d591100.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -532,6 +572,14 @@
                 "id": "04df1b2e-ac5b-4527-8a8e-dd7d306f95ef",
                 "resourcePath": "sprites\\SPR_Meatwad_F\\SPR_Meatwad_F.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b54d633d-2b21-49cc-897a-c3d0fb925b4b",
+            "Value": {
+                "id": "b9a2b24d-1d09-42a6-8eaf-29da4e28d99b",
+                "resourcePath": "objects\\GO_CowButton\\GO_CowButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -716,6 +764,14 @@
                 "id": "3e55b54b-845f-4761-ad15-ab0d5d14974c",
                 "resourcePath": "sprites\\SPR_MilkIcon\\SPR_MilkIcon.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f0a917d6-60a7-4c84-8266-d2b240bb51f0",
+            "Value": {
+                "id": "3f877608-9904-494e-923f-a370d9ed8e19",
+                "resourcePath": "objects\\GO_FridgeItem_Cows\\GO_FridgeItem_Cows.yy",
+                "resourceType": "GMObject"
             }
         },
         {

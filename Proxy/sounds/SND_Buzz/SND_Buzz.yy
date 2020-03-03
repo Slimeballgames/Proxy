@@ -1,8 +1,8 @@
 {
-    "id": "13e4f9aa-3537-48ee-a483-4501f28f686d",
+    "id": "1bd0a72c-d2d8-4685-b60d-4aff85ac53f7",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "buzz",
+    "name": "SND_Buzz",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 96,
