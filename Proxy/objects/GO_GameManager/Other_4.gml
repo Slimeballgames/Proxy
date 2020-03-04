@@ -15,3 +15,9 @@ if(room = RM_ChickGO){
 	ChickGame = false;
 	ChickGO = true;	
 }
+
+
+if(room = RM_CowRace){
+	CowGame = true;	
+	
+}

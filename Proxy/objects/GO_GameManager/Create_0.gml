@@ -8,3 +8,6 @@ ChickGame = false;
 SpawnSpeed = 3;
 ChickChance = 10;
 ChickGO = false;
+
+//COW STUFF
+CowGame = false;

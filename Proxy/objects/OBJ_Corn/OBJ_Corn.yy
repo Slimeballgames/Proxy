@@ -1,38 +1,38 @@
 {
-    "id": "f0a917d6-60a7-4c84-8266-d2b240bb51f0",
+    "id": "b65c522e-b187-408d-a017-6206168da84e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "GO_FridgeItem_Cows",
+    "name": "OBJ_Corn",
     "eventList": [
         {
-            "id": "3a01c640-b357-4158-a5e1-29b2928e4c12",
+            "id": "8ea48496-136b-4fd8-a6a7-000d8b98169e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 7,
-            "eventtype": 6,
-            "m_owner": "f0a917d6-60a7-4c84-8266-d2b240bb51f0"
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "b65c522e-b187-408d-a017-6206168da84e"
         },
         {
-            "id": "fef5f091-fc2c-40d3-9592-f76bfa961b28",
+            "id": "822c938e-fc5c-405e-bb8c-7cc27fee69e6",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 10,
-            "eventtype": 6,
-            "m_owner": "f0a917d6-60a7-4c84-8266-d2b240bb51f0"
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "b65c522e-b187-408d-a017-6206168da84e"
         },
         {
-            "id": "cd7f96e8-d37f-46f5-8805-324052be771e",
+            "id": "7584c21c-ace5-4c7f-8def-e8eb8b226209",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 11,
-            "eventtype": 6,
-            "m_owner": "f0a917d6-60a7-4c84-8266-d2b240bb51f0"
+            "collisionObjectId": "1e78adf4-3c6a-4c1c-8500-37bd0485c0f1",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "b65c522e-b187-408d-a017-6206168da84e"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,6 +53,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "a237d42a-e8fc-425c-a6f3-e6aa3dfa2ff2",
+    "spriteId": "117f3bc8-67a8-4e39-8b86-b6a59a806457",
     "visible": true
 }
