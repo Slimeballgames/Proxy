@@ -1,4 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-movementSpeed += 2;
-instance_create_layer(x, y, "Instances", OBJ_Gas)
+x -= 1;
+
+if(image_index > image_number - 1){
+	instance_destroy();
+	}

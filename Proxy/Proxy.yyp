@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "617da9e0-3490-41d5-855a-7800879f7e5b",
+            "Value": {
+                "id": "0c3822e2-2c9f-4a73-8f47-f5e6427ac62c",
+                "resourcePath": "objects\\OBJ_Gas\\OBJ_Gas.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "61c8a8fc-784a-4bc9-b367-7ac7bfc4d598",
             "Value": {
                 "id": "a36c25b6-b1f8-4607-81e2-60c6c06f6376",

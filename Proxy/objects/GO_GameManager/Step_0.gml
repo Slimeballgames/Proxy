@@ -15,7 +15,16 @@ if(ChickGame){
 
 		
 if(CowGame){
-	layer_hspeed("Background", -1);
+	layer_hspeed("Background", scrollSpeed);
 	
+	with(OBJ_Cow){
+		if(x > 750){
+			GO_GameManager.scrollSpeed -= 1;	
+		}
+	}
+	
+	if(scrollSpeed < -1){
+		scrollSpeed += .05;	
+	}
 	
 }

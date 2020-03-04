@@ -1,4 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-movementSpeed += 2;
-instance_create_layer(x, y, "Instances", OBJ_Gas)
+//alarm[0] = 9;
