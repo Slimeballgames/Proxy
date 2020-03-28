@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "537c171b-1083-4799-b328-df3140454d42",
+            "Value": {
+                "id": "78eb8160-745a-4f1a-a324-80a84edee05a",
+                "resourcePath": "sprites\\SPR_GrinderBase\\SPR_GrinderBase.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5b61ae79-f304-4fd7-a54d-37b66a1e771e",
             "Value": {
                 "id": "9ff3d4ed-c2a8-4b22-8261-87b78cf98a83",
@@ -423,6 +431,14 @@
             }
         },
         {
+            "Key": "8374b131-ea76-4564-8c01-9ec24d6d8e02",
+            "Value": {
+                "id": "ca88658a-aa9e-4f5d-bd02-5e00339caa4d",
+                "resourcePath": "sprites\\SPR_GrinderAnimation\\SPR_GrinderAnimation.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8388b947-571d-4e7f-82ea-c99fea956ea2",
             "Value": {
                 "id": "2597cd17-33ed-409d-a840-9fd35ee2a885",
@@ -443,6 +459,14 @@
             "Value": {
                 "id": "de0e2f9f-4f1b-4ac6-8294-42acaba6c707",
                 "resourcePath": "sprites\\SPR_Lettuce\\SPR_Lettuce.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8ab22699-3cf6-4cd3-ab6f-26fe3e6fb8c1",
+            "Value": {
+                "id": "1c3d371f-794f-4ad0-b82d-dc8d670bb3a5",
+                "resourcePath": "sprites\\SPR_GrinderBlades\\SPR_GrinderBlades.yy",
                 "resourceType": "GMSprite"
             }
         },
