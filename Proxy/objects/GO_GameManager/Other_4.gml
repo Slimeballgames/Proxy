@@ -3,6 +3,7 @@
 
 alarm[0] = -1;
 alarm[1] = -1;
+alarm[3] = -1;
 if(room = RM_Chick){
 	ChickGame = true;	
 	ScoreChick = 0;
@@ -19,5 +20,6 @@ if(room = RM_ChickGO){
 
 if(room = RM_CowRace){
 	CowGame = true;	
+	alarm[3] = 2;
 	
 }

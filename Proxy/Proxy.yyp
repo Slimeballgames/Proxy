@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "3e08df08-fc95-451b-b3b4-6515c5eaf418",
+            "Value": {
+                "id": "d468b50a-af42-4d81-bbef-abac903623f4",
+                "resourcePath": "sprites\\sprite56\\sprite56.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3f4671f7-3d3e-47a8-84eb-3e7e0a8527dc",
             "Value": {
                 "id": "73de2a89-1424-4e2d-884d-a1b43be216bd",
@@ -260,6 +268,14 @@
                 "id": "43c427da-9b2d-4ac9-941a-6d7a9348d8cd",
                 "resourcePath": "rooms\\RM_CowRace\\RM_CowRace.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "40d35996-dbe9-47ae-aabf-71be03bf7e4c",
+            "Value": {
+                "id": "bc21e133-5c10-439e-96fb-db852e15f454",
+                "resourcePath": "sprites\\SPR_Runway\\SPR_Runway.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
