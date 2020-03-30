@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-CornY = 720;
+CornY = 678;
 CornX = 600;
 
 CowX = OBJ_Cow.x;
