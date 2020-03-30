@@ -6,7 +6,8 @@
     "children": [
         "e4f639a5-809f-4ec0-a872-6e16def835ed",
         "8388b947-571d-4e7f-82ea-c99fea956ea2",
-        "1c8fc4ec-a281-49d4-a3f4-d1341669b877"
+        "1c8fc4ec-a281-49d4-a3f4-d1341669b877",
+        "052d9015-34f2-4cd9-99cb-87a8f5a3befa"
     ],
     "filterType": "GMSprite",
     "folderName": "Cow_game",

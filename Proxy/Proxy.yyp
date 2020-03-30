@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "052d9015-34f2-4cd9-99cb-87a8f5a3befa",
+            "Value": {
+                "id": "b25a8a16-54ef-4e1a-aac4-22ed690756aa",
+                "resourcePath": "sprites\\Corn\\Corn.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0b3113d2-d60b-4884-9f7b-c0d23f7a68cb",
             "Value": {
                 "id": "0f2cf07f-8b48-4856-98d1-2333ef0ef8dd",
