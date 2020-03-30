@@ -391,6 +391,14 @@
             }
         },
         {
+            "Key": "6b7ebbbc-050e-4e79-8ce8-75c3a78e2c0f",
+            "Value": {
+                "id": "bbb73073-bcad-421c-b0ab-2e82ebf713d2",
+                "resourcePath": "objects\\OBJ_CowEnd\\OBJ_CowEnd.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6eacdb2e-fc61-409d-942b-543a5fbb390e",
             "Value": {
                 "id": "8eda8300-9805-476d-804d-afc4e34970dc",
@@ -439,6 +447,14 @@
             }
         },
         {
+            "Key": "7912868a-cf9b-4cbf-afe0-42b1aa74490c",
+            "Value": {
+                "id": "baa0993f-8f92-4e80-a86a-7d3bd60d62ce",
+                "resourcePath": "rooms\\RM_CowRaceGO\\RM_CowRaceGO.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "7f23b887-8d0d-4f9a-9872-f63daebe1a11",
             "Value": {
                 "id": "7607a75a-47ba-4863-aebd-d6d4ad82fdd7",
@@ -484,6 +500,14 @@
                 "id": "de0e2f9f-4f1b-4ac6-8294-42acaba6c707",
                 "resourcePath": "sprites\\SPR_Lettuce\\SPR_Lettuce.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "89b2c4b1-b6ab-46d6-8ed8-42ed5fed8a23",
+            "Value": {
+                "id": "9792a3fa-5250-4c01-bec1-be5e231d79d0",
+                "resourcePath": "objects\\OBJ_CowCamStop\\OBJ_CowCamStop.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -634,7 +658,7 @@
             "Key": "ae949247-6706-4771-aaa2-0f7c3c110032",
             "Value": {
                 "id": "0233bee5-34d2-4ada-b0b3-7f2c7e32b6c3",
-                "resourcePath": "sprites\\sprite58\\sprite58.yy",
+                "resourcePath": "sprites\\SPR_End\\SPR_End.yy",
                 "resourceType": "GMSprite"
             }
         },

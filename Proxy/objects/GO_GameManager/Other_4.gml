@@ -20,6 +20,5 @@ if(room = RM_ChickGO){
 
 if(room = RM_CowRace){
 	CowGame = true;	
-	alarm[3] = 2;
 	
 }
