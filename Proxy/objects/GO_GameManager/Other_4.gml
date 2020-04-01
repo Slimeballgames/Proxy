@@ -14,6 +14,7 @@ if(room = RM_Menu){
 	ChickGO = false;
 	CowGame = false;
 	CowGameGO = false;
+	CowGameGOF = false;
 }
 
 //Chicken Mechanics
@@ -40,4 +41,8 @@ if(room = RM_CowRace){
 if(room = RM_CowRaceGO){
 	CowGame = false;
 	CowGameGO = true;
+}
+if(room = RM_CowRaceGOF){
+	CowGame = false;
+	CowGameGOF = true;
 }

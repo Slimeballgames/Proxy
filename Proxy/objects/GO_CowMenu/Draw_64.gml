@@ -11,3 +11,7 @@ draw_text(510, 300, "Click and drag the corn to feed the cow! \n Use it's gas to
 
 draw_set_font(FNT_TextFont);
 draw_set_halign(fa_left);
+
+draw_sprite(Corn, 0, 400,550);
+draw_sprite(SPR_ArrowR, 0, 500, 450);
+draw_sprite(SPR_Cow, -1, 625, 575);

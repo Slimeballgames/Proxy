@@ -9,3 +9,4 @@ instance_create_layer(SWidth, SHeight, "PopUps", GO_ChickenMenu);
 
 //Creates the button depending on what GO is put in the null
 instance_create_layer(305, 705, "Buttons", GO_Chick_Button);
+instance_create_layer(505, 705, "Buttons", GO_MenuButton);

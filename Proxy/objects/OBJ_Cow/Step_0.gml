@@ -13,3 +13,7 @@ if(Stoping = false){
 if(movementSpeed > -1.0){
 	movementSpeed += decrement;
 }
+
+if(x < -50){
+	room_goto(RM_CowRaceGOF);
+}

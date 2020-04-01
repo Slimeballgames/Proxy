@@ -12,6 +12,7 @@ ChickGO = false;
 //COW STUFF
 CowGame = false;
 CowGameGO = false;
+CowGameGOF = false;
 scrollSpeed = -1;
 CamStop = false;
 raceTime = 0;

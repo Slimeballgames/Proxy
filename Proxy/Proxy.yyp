@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "139665b4-0f0e-4712-83d0-1e90dedde068",
+            "Value": {
+                "id": "c2dea9cd-2168-4904-9ad7-cec25a9917c4",
+                "resourcePath": "sprites\\SPR_ArrowR\\SPR_ArrowR.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "13e4f9aa-3537-48ee-a483-4501f28f686d",
             "Value": {
                 "id": "6ea91d49-94eb-484c-a015-f3ebaca6e426",
@@ -108,6 +116,14 @@
                 "id": "a6cf36e4-bb8c-41c6-88c3-c215228fb1ad",
                 "resourcePath": "objects\\GO_MeatPile\\GO_MeatPile.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "19537ac1-d970-45cb-9b4c-f0c37985f1fe",
+            "Value": {
+                "id": "fbfd4fb8-2115-4e54-bbc1-46b31fa8f656",
+                "resourcePath": "views\\19537ac1-d970-45cb-9b4c-f0c37985f1fe.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -180,6 +196,14 @@
                 "id": "197a269c-a34e-4121-9eb6-b2faa063efbb",
                 "resourcePath": "sprites\\SPR_Soda\\SPR_Soda.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "29088a6a-da2d-45fe-a722-029c07d1279c",
+            "Value": {
+                "id": "16ad65dc-606c-4e48-a919-0a030d55ff2d",
+                "resourcePath": "rooms\\RM_CowRaceGOF\\RM_CowRaceGOF.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -875,6 +899,14 @@
             "Value": {
                 "id": "15e3d33d-7447-4dba-8d09-e0693cfc9026",
                 "resourcePath": "sprites\\SPR_NuggetsIcon\\SPR_NuggetsIcon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "db525be4-e8ce-4512-af50-61870f7dff20",
+            "Value": {
+                "id": "36fabfd6-c2fc-4ac3-aa5d-8640860da55f",
+                "resourcePath": "sprites\\SPR_ArrowD\\SPR_ArrowD.yy",
                 "resourceType": "GMSprite"
             }
         },
