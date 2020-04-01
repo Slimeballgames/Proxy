@@ -471,6 +471,14 @@
             }
         },
         {
+            "Key": "7e5687d7-cffc-43bf-b1dc-c3ce1bc4d8da",
+            "Value": {
+                "id": "afb56713-bb9e-4cc3-8ce6-2f2d8c091a9d",
+                "resourcePath": "sprites\\SPR_Floor\\SPR_Floor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7f23b887-8d0d-4f9a-9872-f63daebe1a11",
             "Value": {
                 "id": "7607a75a-47ba-4863-aebd-d6d4ad82fdd7",
