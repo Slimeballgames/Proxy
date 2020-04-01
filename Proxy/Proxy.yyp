@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "452ed2d7-290f-4859-bd51-e500280ddcd9",
+            "Value": {
+                "id": "0d5ed810-43f6-41b1-9ac6-47d30def5aa0",
+                "resourcePath": "sprites\\SPR_TofuKingLogo_2\\SPR_TofuKingLogo_2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "498630cc-a52b-43f6-9a48-39be6d7d6ab3",
             "Value": {
                 "id": "434b0136-f940-42f9-8d07-4da3f7b00274",
