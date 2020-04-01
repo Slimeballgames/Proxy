@@ -16,3 +16,6 @@ CowGameGOF = false;
 scrollSpeed = -1;
 CamStop = false;
 raceTime = 0;
+
+//FACT STUFF
+global.rnum = irandom_range(0,2);

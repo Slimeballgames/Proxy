@@ -25,6 +25,7 @@ if(CowGame){
 
 if(CowGameGO){
 	draw_text(225, 65, "Final Time: " + string(raceTime));
+	
 }
 
 if(CowGameGOF){

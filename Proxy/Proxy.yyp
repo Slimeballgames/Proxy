@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "3bf94008-bb7d-4af2-a5bc-845978e828d8",
+            "Value": {
+                "id": "c619bd54-fc70-4943-bba1-a83b42ea3d75",
+                "resourcePath": "sprites\\TextBox\\TextBox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3e08df08-fc95-451b-b3b4-6515c5eaf418",
             "Value": {
                 "id": "d468b50a-af42-4d81-bbef-abac903623f4",
@@ -628,6 +636,14 @@
                 "id": "9239db4b-14c1-425d-866c-5aa127fead34",
                 "resourcePath": "sprites\\PastePile\\PastePile.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "91540d5e-feb8-4930-a30c-81bfd5d47ba3",
+            "Value": {
+                "id": "d4c62b8a-e0b0-469b-a7c1-84a4922534d6",
+                "resourcePath": "objects\\GO_CowFactTextBox\\GO_CowFactTextBox.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1012,6 +1028,14 @@
                 "id": "629d4fbd-d3a4-4690-8b1e-fa3412e4f740",
                 "resourcePath": "sprites\\Paste_Pile_1\\Paste_Pile_1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f265192f-dc5d-46a0-8fc3-d4f33c1bcf23",
+            "Value": {
+                "id": "12e53042-118c-419a-b8f7-9c8bcc407f1d",
+                "resourcePath": "objects\\GO_ChickenFactTextBox\\GO_ChickenFactTextBox.yy",
+                "resourceType": "GMObject"
             }
         },
         {
