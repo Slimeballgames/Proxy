@@ -9,6 +9,7 @@ if(ChickGame){
 }
 if(ChickGO){
 		
+	draw_set_color(make_color_rgb(250, 250, 250));
 	draw_text(225,65, "Final Score: " + string(ScoreChick));
 
 }
