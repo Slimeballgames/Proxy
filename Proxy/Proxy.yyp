@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "1e623b57-ecc0-409c-ab04-3c824eecc313",
+            "Value": {
+                "id": "2497dd5f-6027-4c57-86bf-b248e19ad076",
+                "resourcePath": "sprites\\SPR_GrinderAnim\\SPR_GrinderAnim.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1e78adf4-3c6a-4c1c-8500-37bd0485c0f1",
             "Value": {
                 "id": "4c6ad460-d2c2-4dda-b8af-9264376fee32",
@@ -479,14 +487,6 @@
             }
         },
         {
-            "Key": "8374b131-ea76-4564-8c01-9ec24d6d8e02",
-            "Value": {
-                "id": "ca88658a-aa9e-4f5d-bd02-5e00339caa4d",
-                "resourcePath": "sprites\\SPR_GrinderAnimation\\SPR_GrinderAnimation.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "8388b947-571d-4e7f-82ea-c99fea956ea2",
             "Value": {
                 "id": "2597cd17-33ed-409d-a840-9fd35ee2a885",
@@ -516,14 +516,6 @@
                 "id": "9792a3fa-5250-4c01-bec1-be5e231d79d0",
                 "resourcePath": "objects\\OBJ_CowCamStop\\OBJ_CowCamStop.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "8ab22699-3cf6-4cd3-ab6f-26fe3e6fb8c1",
-            "Value": {
-                "id": "1c3d371f-794f-4ad0-b82d-dc8d670bb3a5",
-                "resourcePath": "sprites\\SPR_GrinderBlades\\SPR_GrinderBlades.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -731,6 +723,14 @@
             "Value": {
                 "id": "cd84eaab-2d54-4858-b3f1-3ff08afd1b60",
                 "resourcePath": "sprites\\SPR_Cheese\\SPR_Cheese.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c4a98c74-d1a5-4dec-b052-b25d79dee8d8",
+            "Value": {
+                "id": "ef766d51-3516-4dc4-a7a9-f45151aef383",
+                "resourcePath": "sprites\\SPR_GrinderBlades\\SPR_GrinderBlades.yy",
                 "resourceType": "GMSprite"
             }
         },
