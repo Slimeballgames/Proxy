@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "008f4007-155c-40c2-88b9-2f58c1617401",
+            "Value": {
+                "id": "7c17109a-fefd-4284-bf17-ef1c791b6263",
+                "resourcePath": "sounds\\ChickGameMusic\\ChickGameMusic.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "052d9015-34f2-4cd9-99cb-87a8f5a3befa",
             "Value": {
                 "id": "b25a8a16-54ef-4e1a-aac4-22ed690756aa",
@@ -180,6 +188,14 @@
                 "id": "dba1181f-c0ed-4712-9547-83ce6d19dcfa",
                 "resourcePath": "sprites\\SPR_IceCream\\SPR_IceCream.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "21a9ebf7-7cc7-4ed9-83b1-7197b56299eb",
+            "Value": {
+                "id": "c98802d3-0bb6-4982-8825-0f35519a8396",
+                "resourcePath": "sounds\\MenuMusic\\MenuMusic.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -855,6 +871,14 @@
             }
         },
         {
+            "Key": "cac86f00-3ffb-4ecf-92f2-f1f3606a49a6",
+            "Value": {
+                "id": "83757dae-9666-4047-acb4-f0a84853cbc4",
+                "resourcePath": "sounds\\GameOverSound\\GameOverSound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "cb48b093-152e-4e60-a178-4d4b5a812ae3",
             "Value": {
                 "id": "5eaff537-3dbd-4fec-a5e5-d29143c64227",
@@ -988,6 +1012,14 @@
                 "id": "7642f2f5-1fe4-4567-a2b8-09d26bdabfdc",
                 "resourcePath": "views\\ec413e7c-c038-4561-abf4-f189be818c8c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "eca8562e-e04b-4214-8cbd-1af107582ebd",
+            "Value": {
+                "id": "19326612-b460-4f00-b6a5-498c3137dffa",
+                "resourcePath": "sounds\\CowGameMusic\\CowGameMusic.yy",
+                "resourceType": "GMSound"
             }
         },
         {

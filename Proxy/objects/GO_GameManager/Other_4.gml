@@ -19,6 +19,7 @@ if(room = RM_Menu){
 
 //Chicken Mechanics
 if(room = RM_Chick){
+	audio_stop_sound(MenuMusic);
 	ChickGame = true;	
 	ScoreChick = 0;
 	alarm[0] = room_speed * 5;
@@ -26,6 +27,8 @@ if(room = RM_Chick){
 }
 
 if(room = RM_ChickGO){
+	audio_stop_sound(ChickGameMusic);
+	audio_play_sound(GameOverSound, 1, 1);
 	audio_stop_sound(conveyorBelt);
 	ChickGame = false;
 	ChickGO = true;	
@@ -33,16 +36,28 @@ if(room = RM_ChickGO){
 
 //Cow Mechanics
 if(room = RM_CowRace){
+	audio_stop_sound(MenuMusic);
 	raceTime = 0;
 	CowGame = true;	
 	alarm[2] = room_speed;
 }
 
 if(room = RM_CowRaceGO){
+	audio_stop_sound(CowGameMusic);
+	audio_play_sound(GameOverSound, 1, 1);
 	CowGame = false;
 	CowGameGO = true;
 }
 if(room = RM_CowRaceGOF){
+	audio_stop_sound(CowGameMusic);
+	audio_play_sound(GameOverSound, 1, 1);
 	CowGame = false;
 	CowGameGOF = true;
+}
+
+if(room = RM_Menu){
+	audio_stop_sound(ChickGameMusic);
+	audio_stop_sound(CowGameMusic);
+	audio_stop_sound(chicks_chirp);
+	audio_stop_sound(GameOverSound);
 }
