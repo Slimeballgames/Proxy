@@ -863,6 +863,14 @@
             }
         },
         {
+            "Key": "d4a908ae-d884-4a25-b732-cd3fc5e5a329",
+            "Value": {
+                "id": "56c1d1a6-55a3-4068-9784-d13a4c026b84",
+                "resourcePath": "fonts\\FNT_TextFontLRG\\FNT_TextFontLRG.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "d59c8ac4-fa88-42f6-8ce8-6bcc8c58a708",
             "Value": {
                 "id": "15e3d33d-7447-4dba-8d09-e0693cfc9026",
