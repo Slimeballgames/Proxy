@@ -3,7 +3,20 @@
 
 alarm[0] = -1;
 alarm[1] = -1;
-alarm[3] = -1;
+alarm[2] = -1;
+layer_hspeed("Background", 0);
+draw_set_font(FNT_TextFont);
+
+//Cleanup
+if(room = RM_Menu){
+	
+	ChickGame = false;
+	ChickGO = false;
+	CowGame = false;
+	CowGameGO = false;
+}
+
+//Chicken Mechanics
 if(room = RM_Chick){
 	ChickGame = true;	
 	ScoreChick = 0;
@@ -17,8 +30,14 @@ if(room = RM_ChickGO){
 	ChickGO = true;	
 }
 
-
+//Cow Mechanics
 if(room = RM_CowRace){
+	raceTime = 0;
 	CowGame = true;	
-	
+	alarm[2] = room_speed;
+}
+
+if(room = RM_CowRaceGO){
+	CowGame = false;
+	CowGameGO = true;
 }
