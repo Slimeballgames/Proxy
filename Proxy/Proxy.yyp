@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "06a610b7-e2ab-4da4-85e9-3247d118b062",
+            "Value": {
+                "id": "181d6c60-becc-45ee-9b9c-7dec1588f994",
+                "resourcePath": "sprites\\SPR_I\\SPR_I.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "09baa367-c53e-4fcd-84b9-b2accc0799db",
             "Value": {
                 "id": "4b748b2e-9383-4d31-b8e6-5d4d88990091",
@@ -75,6 +83,14 @@
             "Value": {
                 "id": "ada8856a-3a8e-479f-8e11-01d087d5e3ca",
                 "resourcePath": "sprites\\SPR_Chick_F_Fall\\SPR_Chick_F_Fall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0dfd7492-e0eb-4e9b-826c-afc51e07ca0a",
+            "Value": {
+                "id": "69f2d35f-c853-4a91-a88b-3af41a759b4c",
+                "resourcePath": "sprites\\SPR_LL\\SPR_LL.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -115,6 +131,14 @@
             "Value": {
                 "id": "56c624d7-d30f-4ff9-9164-dcc9ab65ff2f",
                 "resourcePath": "sprites\\SPR_BurgerIcon\\SPR_BurgerIcon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "189477ed-0d81-4f39-b447-695a09f21798",
+            "Value": {
+                "id": "cf73e25b-7d68-4703-9763-5ae1d4d9f83d",
+                "resourcePath": "sprites\\SPR_S\\SPR_S.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -175,6 +199,14 @@
             }
         },
         {
+            "Key": "1fbfd32b-7cd0-4c43-9ea1-159c9488e788",
+            "Value": {
+                "id": "8a34ef93-fee0-45e7-b86c-d8e8a048e5e7",
+                "resourcePath": "scripts\\SC_Get_Tetramino\\SC_Get_Tetramino.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "200f8f3a-e65b-459d-ae85-8194d1356338",
             "Value": {
                 "id": "c34569d9-4f7b-493a-8fa9-bcc8581f184d",
@@ -227,6 +259,14 @@
             "Value": {
                 "id": "54785f95-5f9b-4235-a2bf-48a7873b8208",
                 "resourcePath": "sprites\\SPR_Apple\\SPR_Apple.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2d79250b-7714-4afb-8750-3a9414f3ac31",
+            "Value": {
+                "id": "bf8696ad-e98a-40a3-bf2c-1ab0f6579be2",
+                "resourcePath": "sprites\\SPR_ZR\\SPR_ZR.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -407,6 +447,22 @@
             }
         },
         {
+            "Key": "51841196-a2a4-406b-8cd8-8f3be804c297",
+            "Value": {
+                "id": "f658f1b8-2ba2-43f3-abd4-d6adc12e6bbc",
+                "resourcePath": "objects\\GO_ChickenTetris_button\\GO_ChickenTetris_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "51c3aab1-5af3-4380-97ce-53481605df03",
+            "Value": {
+                "id": "debd1a68-c26d-4154-9d51-31d4fb7e7ec5",
+                "resourcePath": "scripts\\SC_Clear_TM\\SC_Clear_TM.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "52c61777-b725-465d-9114-263a1ca8888f",
             "Value": {
                 "id": "8d6fd8cc-4c59-4768-8554-d408487a14ff",
@@ -439,6 +495,14 @@
             }
         },
         {
+            "Key": "5d30ab06-2f4f-4792-9aee-87122f0ecae0",
+            "Value": {
+                "id": "cefeff4c-a180-450d-824a-153f9cbbec7c",
+                "resourcePath": "sprites\\SPR_LR\\SPR_LR.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "61472d06-09fb-4aa5-932d-fd2c901a2530",
             "Value": {
                 "id": "2377ad30-31ab-4455-abb8-51424ed00271",
@@ -467,6 +531,14 @@
             "Value": {
                 "id": "acbd67c9-e98a-44d3-a79c-24ada7eea9ec",
                 "resourcePath": "sprites\\SPR_Orange\\SPR_Orange.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "668324ab-3f6b-4240-90a4-0118737ceb94",
+            "Value": {
+                "id": "1ca59caf-d565-4646-8401-cf276cd66275",
+                "resourcePath": "sprites\\SPR_TetrisBG\\SPR_TetrisBG.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -535,6 +607,14 @@
             }
         },
         {
+            "Key": "7432fc07-7a35-4b9b-97fd-aa03d185e1aa",
+            "Value": {
+                "id": "8c1fa3ee-78ed-48b6-8afa-4f8b069e939d",
+                "resourcePath": "views\\7432fc07-7a35-4b9b-97fd-aa03d185e1aa.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "75cd49a5-ac0c-4118-8679-f016e94bee18",
             "Value": {
                 "id": "78a82195-fa6e-4ec2-a002-cb716443beed",
@@ -567,11 +647,27 @@
             }
         },
         {
+            "Key": "7e657017-2abc-444c-861f-a2de447cc1e5",
+            "Value": {
+                "id": "a1961d75-9a80-427b-9a5e-3f3a01d4aac6",
+                "resourcePath": "views\\7e657017-2abc-444c-861f-a2de447cc1e5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "7f23b887-8d0d-4f9a-9872-f63daebe1a11",
             "Value": {
                 "id": "7607a75a-47ba-4863-aebd-d6d4ad82fdd7",
                 "resourcePath": "sprites\\SPR_EggsIcon\\SPR_EggsIcon.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "81cc306f-f3b5-4463-b069-d56a14d2c61f",
+            "Value": {
+                "id": "869c8fb7-9d17-4e07-b74c-e952861ce6c6",
+                "resourcePath": "scripts\\SC_Place_TM\\SC_Place_TM.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -615,6 +711,14 @@
             }
         },
         {
+            "Key": "8653dc62-fbaf-4521-98f2-c97656447945",
+            "Value": {
+                "id": "d26f7d3a-5839-41d5-8d55-63b902493844",
+                "resourcePath": "sprites\\SPR_T\\SPR_T.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8857497f-bd31-4eeb-98c6-34422aa4639d",
             "Value": {
                 "id": "de0e2f9f-4f1b-4ac6-8294-42acaba6c707",
@@ -643,6 +747,14 @@
             "Value": {
                 "id": "79c0ca7c-a18c-486c-a248-d656c02eca59",
                 "resourcePath": "objects\\GO_GameManager\\GO_GameManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8ec8a6e1-f2a7-4013-a99a-1713df24802b",
+            "Value": {
+                "id": "4e9a7810-e4dd-4640-a4c6-af8ceaaa43fb",
+                "resourcePath": "objects\\GO_Fridge_Item_ChickenTetris\\GO_Fridge_Item_ChickenTetris.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -695,6 +807,14 @@
             }
         },
         {
+            "Key": "99c0b5aa-0ad6-4272-9aa1-38410cd50d90",
+            "Value": {
+                "id": "0a33ac0e-1c7a-49d6-88d2-3ed88afcd040",
+                "resourcePath": "objects\\TetrisMaster\\TetrisMaster.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9a4fbac0-9b45-4c7e-bc73-de6b13e23edd",
             "Value": {
                 "id": "ea264baa-d2ad-4180-8a4d-f61de340710e",
@@ -716,6 +836,14 @@
                 "id": "9aee7232-6116-489e-ab66-6ec15477a35a",
                 "resourcePath": "views\\9ac8203c-8278-444b-be43-49d28acccf7c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9c6abd02-7fd7-4da7-910c-873025023983",
+            "Value": {
+                "id": "f793e856-adc4-48b1-9f07-4180f19344bd",
+                "resourcePath": "rooms\\RM_Chicken_Tetris\\RM_Chicken_Tetris.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -815,11 +943,27 @@
             }
         },
         {
+            "Key": "b79e19f6-1f04-48a6-96e0-9ffc3df253e2",
+            "Value": {
+                "id": "634a6936-f4eb-4faa-a8ea-7d975cad7b6a",
+                "resourcePath": "scripts\\SC_init\\SC_init.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "b83b5b41-9c6a-40ec-be3c-018bd2be56dc",
             "Value": {
                 "id": "56213a7b-423e-4dd1-a7f6-7c9eef5bbd36",
                 "resourcePath": "views\\b83b5b41-9c6a-40ec-be3c-018bd2be56dc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b990421e-065f-4165-88e6-bb821882d385",
+            "Value": {
+                "id": "72cc8030-7d56-4e1f-95cf-01c0ec5695be",
+                "resourcePath": "sprites\\SPR_ZL\\SPR_ZL.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -943,6 +1087,14 @@
             }
         },
         {
+            "Key": "d82f4e5d-9355-4645-9503-69d82490b3a0",
+            "Value": {
+                "id": "0412edca-5431-4eaa-9632-78659a7d4a9b",
+                "resourcePath": "tilesets\\ChickenTIles\\ChickenTIles.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "db525be4-e8ce-4512-af50-61870f7dff20",
             "Value": {
                 "id": "36fabfd6-c2fc-4ac3-aa5d-8640860da55f",
@@ -1028,6 +1180,14 @@
                 "id": "5690e2ee-2793-47cc-9ec9-026f61c2ccb2",
                 "resourcePath": "rooms\\RM_ChickGO\\RM_ChickGO.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "eceb9a58-3374-4e1c-b57a-e5213694cbc6",
+            "Value": {
+                "id": "764e2be0-30af-4281-a1ec-09b4526ef027",
+                "resourcePath": "sprites\\SPR_Cages\\SPR_Cages.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1152,7 +1312,10 @@
         }
     ],
     "script_order": [
-        
+        "b79e19f6-1f04-48a6-96e0-9ffc3df253e2",
+        "1fbfd32b-7cd0-4c43-9ea1-159c9488e788",
+        "51c3aab1-5af3-4380-97ce-53481605df03",
+        "81cc306f-f3b5-4463-b069-d56a14d2c61f"
     ],
     "tutorial": ""
 }
