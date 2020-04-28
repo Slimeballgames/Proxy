@@ -15,6 +15,7 @@ if(room = RM_Menu){
 	CowGame = false;
 	CowGameGO = false;
 	CowGameGOF = false;
+	EggGame = false;
 }
 
 //Chicken Mechanics
@@ -59,6 +60,8 @@ if(room = RM_CowRaceGOF){
 if(room = RM_Egg_Collection){
 		EggScore = 0;
 		EggGame = true;
+		alarm[3] = room_speed;
+		
 		
 }
 

@@ -45,5 +45,8 @@ if(CowGame){
 }
 
 if(EggGame){
-	
+	if(EggTimer = 0){
+		EggGame = false;
+		room_goto(RM_EggGO)	
+	}
 }

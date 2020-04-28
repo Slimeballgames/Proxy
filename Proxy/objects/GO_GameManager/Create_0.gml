@@ -20,6 +20,7 @@ raceTime = 0;
 //EGG STUFF
 EggGame = false;
 EggScore = 0;
+EggTimer = 30;
 
 //FACT STUFF
 global.rnum = irandom_range(0,2);
