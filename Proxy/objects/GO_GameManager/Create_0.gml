@@ -17,5 +17,9 @@ scrollSpeed = -1;
 CamStop = false;
 raceTime = 0;
 
+//EGG STUFF
+EggGame = false;
+EggScore = 0;
+
 //FACT STUFF
 global.rnum = irandom_range(0,2);

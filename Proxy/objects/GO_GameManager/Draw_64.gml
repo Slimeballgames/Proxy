@@ -33,3 +33,14 @@ if(CowGameGOF){
 		draw_text(225, 65, "Failure!");
 		draw_set_font(FNT_TextFont);
 }
+
+
+if(EggGame){
+	draw_set_font(FNT_TextFontLRG);
+	draw_set_color(make_color_rgb(250, 250, 250));
+	draw_text(50, 295, "Score: " + string(EggScore));
+	draw_text(600,295, "Time left: " + string(EggTimer));
+	
+	
+	
+}

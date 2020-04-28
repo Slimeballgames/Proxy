@@ -55,6 +55,13 @@ if(room = RM_CowRaceGOF){
 	CowGameGOF = true;
 }
 
+//EGG Mechanics
+if(room = RM_Egg_Collection){
+		EggScore = 0;
+		EggGame = true;
+		
+}
+
 if(room = RM_Menu){
 	audio_stop_sound(ChickGameMusic);
 	audio_stop_sound(CowGameMusic);

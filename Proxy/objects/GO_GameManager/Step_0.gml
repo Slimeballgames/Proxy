@@ -13,7 +13,7 @@ if(ChickGame){
 	}
 }
 
-		
+//COW GAME STUFF		
 if(CowGame){
 	
 	with(OBJ_Cow){
@@ -41,5 +41,9 @@ if(CowGame){
 	 }
 	 
 	layer_hspeed("Background", scrollSpeed);
+	
+}
+
+if(EggGame){
 	
 }
