@@ -399,6 +399,14 @@
             }
         },
         {
+            "Key": "40ec82e3-0418-49c3-a3e6-8664c76261d6",
+            "Value": {
+                "id": "27c19073-03f8-4f14-b2e8-779c1f6ac40a",
+                "resourcePath": "sprites\\Cow_ScoreScreen\\Cow_ScoreScreen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "43551d8b-3f2a-4b51-ba1a-e31191d4d966",
             "Value": {
                 "id": "a93e11d9-4eeb-4b79-a9c5-991cd847577a",
