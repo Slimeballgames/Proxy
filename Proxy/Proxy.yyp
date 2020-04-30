@@ -671,6 +671,14 @@
             }
         },
         {
+            "Key": "77ab84db-a364-4950-8001-4cb4fe8ba09b",
+            "Value": {
+                "id": "65eb9570-0b6f-46ff-896f-7911ff340cef",
+                "resourcePath": "sprites\\SPR_ChickM_Sign\\SPR_ChickM_Sign.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7912868a-cf9b-4cbf-afe0-42b1aa74490c",
             "Value": {
                 "id": "baa0993f-8f92-4e80-a86a-7d3bd60d62ce",
@@ -783,14 +791,6 @@
             }
         },
         {
-            "Key": "8c0c0326-7139-4ff9-a4a6-b4b69eda9733",
-            "Value": {
-                "id": "67f0ddef-fbe2-4d40-8fdf-fc0440b8c555",
-                "resourcePath": "sprites\\SPR_MaleChickSign\\SPR_MaleChickSign.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "8c747f70-98de-47a8-afae-2f719a79a575",
             "Value": {
                 "id": "79c0ca7c-a18c-486c-a248-d656c02eca59",
@@ -812,14 +812,6 @@
                 "id": "4e9a7810-e4dd-4640-a4c6-af8ceaaa43fb",
                 "resourcePath": "objects\\GO_Fridge_Item_ChickenTetris\\GO_Fridge_Item_ChickenTetris.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "8fa18387-594d-4260-873a-1c628f60fa99",
-            "Value": {
-                "id": "730495fc-52ef-4076-b050-df449d13f108",
-                "resourcePath": "sprites\\SPR_FemaleChickSign\\SPR_FemaleChickSign.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -1324,6 +1316,14 @@
                 "id": "0ace6e7a-e19b-40c4-8658-9f16960f54fa",
                 "resourcePath": "objects\\GO_CowMenu\\GO_CowMenu.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f54c48ed-51bf-4a4d-9afe-1e68c22c4b49",
+            "Value": {
+                "id": "953c5698-c744-47d1-a929-d5f8f62a40cc",
+                "resourcePath": "sprites\\SPR_ChickF_Sign\\SPR_ChickF_Sign.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
