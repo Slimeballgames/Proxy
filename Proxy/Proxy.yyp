@@ -983,6 +983,14 @@
             }
         },
         {
+            "Key": "b4f7717e-21c4-4cd6-81c3-a164ffcd8023",
+            "Value": {
+                "id": "ffcef1d9-a21f-4faf-9434-e98e2be1f0bb",
+                "resourcePath": "sprites\\SPR_ChickScoreScreen\\SPR_ChickScoreScreen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b54d633d-2b21-49cc-897a-c3d0fb925b4b",
             "Value": {
                 "id": "b9a2b24d-1d09-42a6-8eaf-29da4e28d99b",
