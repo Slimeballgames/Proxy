@@ -783,6 +783,14 @@
             }
         },
         {
+            "Key": "8c0c0326-7139-4ff9-a4a6-b4b69eda9733",
+            "Value": {
+                "id": "67f0ddef-fbe2-4d40-8fdf-fc0440b8c555",
+                "resourcePath": "sprites\\SPR_MaleChickSign\\SPR_MaleChickSign.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8c747f70-98de-47a8-afae-2f719a79a575",
             "Value": {
                 "id": "79c0ca7c-a18c-486c-a248-d656c02eca59",
