@@ -815,6 +815,14 @@
             }
         },
         {
+            "Key": "8fa18387-594d-4260-873a-1c628f60fa99",
+            "Value": {
+                "id": "730495fc-52ef-4076-b050-df449d13f108",
+                "resourcePath": "sprites\\SPR_FemaleChickSign\\SPR_FemaleChickSign.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "90c58b3c-337d-4993-916b-500cef7253c6",
             "Value": {
                 "id": "9239db4b-14c1-425d-866c-5aa127fead34",
