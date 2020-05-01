@@ -58,11 +58,19 @@ if(room = RM_CowRaceGOF){
 
 //EGG Mechanics
 if(room = RM_Egg_Collection){
+		audio_stop_sound(MenuMusic);
+		audio_play_sound(EggGameMusic, 1, 1);
 		EggScore = 0;
 		EggGame = true;
 		alarm[3] = room_speed;
-		
-		
+}
+
+if(room = RM_EggGO){
+	audio_stop_sound(EggGameMusic);
+	audio_stop_sound(HenSquawk);
+	audio_play_sound(GameOverSound, 1, 1);
+					
+				
 }
 
 if(room = RM_Menu){
@@ -70,4 +78,6 @@ if(room = RM_Menu){
 	audio_stop_sound(CowGameMusic);
 	audio_stop_sound(chicks_chirp);
 	audio_stop_sound(GameOverSound);
+	audio_stop_sound(EggGameMusic);
+	audio_stop_sound(HenSquawk);
 }

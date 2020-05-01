@@ -7,3 +7,5 @@ image_speed = 0;
 EggOut = false;
 alarm[0] = room_speed * choose(3, 4, 7);
 NewEgg = 0;
+
+audio_play_sound(HenSquawk, 1, 1);

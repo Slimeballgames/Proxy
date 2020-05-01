@@ -327,11 +327,27 @@
             }
         },
         {
+            "Key": "308de819-e518-402f-be56-529c2038f7df",
+            "Value": {
+                "id": "aa87f0e2-414b-4198-a3df-ba98ff6ac119",
+                "resourcePath": "sprites\\SPR_EggBG\\SPR_EggBG.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "32ba1af9-ce14-4fe0-9db7-8c38d35a1773",
             "Value": {
                 "id": "872f9e7b-a2d8-44da-8584-8d0840695e72",
                 "resourcePath": "sprites\\SPR_Cola\\SPR_Cola.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "34a04c87-1f8b-4a3e-b309-a48caf2defcc",
+            "Value": {
+                "id": "be83c4f1-c5d0-4868-b063-1b9ab1be7cd7",
+                "resourcePath": "sounds\\HenSquawk\\HenSquawk.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -444,6 +460,14 @@
                 "id": "a053fece-ddf4-4cd6-ad9b-80560ef38a1c",
                 "resourcePath": "sprites\\TetrisChick2\\TetrisChick2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4d57f2c8-ec88-4d7a-a2c9-eaedf9a9004e",
+            "Value": {
+                "id": "b9e7bcac-4d7d-446a-b326-6dc34508f2a4",
+                "resourcePath": "objects\\GO_EGGFactTextBox\\GO_EGGFactTextBox.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -783,6 +807,14 @@
             }
         },
         {
+            "Key": "8ad015a2-16ab-4968-a133-14dc150730da",
+            "Value": {
+                "id": "f4a5f3e3-ee99-40d0-89e6-087ac081d8df",
+                "resourcePath": "sounds\\EggGameMusic\\EggGameMusic.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "8c0984d6-ceee-4831-8a46-0c4ec637a627",
             "Value": {
                 "id": "a233daf2-5fe8-4bed-85f1-1ab98c447604",
@@ -844,6 +876,14 @@
                 "id": "18d5d918-29ab-4d3f-82d7-42b450b5edb1",
                 "resourcePath": "sprites\\SPR_ChickIcon2\\SPR_ChickIcon2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "95d3a027-55a1-40a6-87e4-91d6d991273d",
+            "Value": {
+                "id": "d4ca2ac1-e86a-4260-8a33-b9ea7381634f",
+                "resourcePath": "objects\\empty\\empty.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1220,6 +1260,14 @@
                 "id": "581d5bd9-c7bc-4e95-93d4-7f52cf8ae17d",
                 "resourcePath": "sprites\\SPR_Cow\\SPR_Cow.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e558df87-c0d1-425e-a723-16dd4911342c",
+            "Value": {
+                "id": "d30a8fd9-eb8a-4868-ae97-8feed8bc8639",
+                "resourcePath": "objects\\GO_EggMenu\\GO_EggMenu.yy",
+                "resourceType": "GMObject"
             }
         },
         {
