@@ -3,4 +3,5 @@
 if(EggOut){
 	GO_GameManager.EggScore++;
 	EggOut = false;
+	sprite_index = Hen_sad;
 }

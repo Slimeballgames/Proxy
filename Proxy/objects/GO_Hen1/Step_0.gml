@@ -5,6 +5,7 @@ if (image_index > image_number - 1){
 }
 
 if(alarm[0] == -1 && EggOut == false){
+		sprite_index = Hen
 		image_index = 0;
 		image_speed = 0;
 		alarm[0] = room_speed * choose(3, 4, 7);
